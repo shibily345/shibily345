@@ -1,6 +1,47 @@
-# 💫 About Me:
-	1.	🚀 Flutter Enthusiast: Crafting cross-platform mobile apps with Flutter.<br>	2.	💻 Code Wizard: Turning ideas into reality with clean and efficient code.<br>	3.	📱 Mobile App Developer: Creating stunning and responsive user experiences.<br>	4.	🎨 UI/UX Designer: Passionate about intuitive and beautiful design.<br>	5.	🔥 Problem Solver: Tackling challenges with innovative solutions.<br>	6.	🌟 Open Source Contributor: Giving back to the Flutter community.<br>	7.	🎓 Lifelong Learner: Always learning and growing as a developer.<br>	8.	🌍 Tech Explorer: Exploring the latest trends in mobile development.<br>	9.	💼 Professional Developer: Experienced in delivering high-quality apps.<br>	10.	🤝 Collaborator: Enjoy working with teams to bring projects to life.
+# Welcome to My GitHub! 👋
 
+I'm a **Flutter Developer** with a passion for creating stunning, high-performance mobile applications. Here you'll find a showcase of my work, projects, and contributions to the Flutter community.
+
+## 🚀 My Skills
+
+- **Flutter & Dart**: Crafting seamless cross-platform apps.
+- **Firebase**: Integrating cloud features like authentication, databases, and notifications.
+- **State Management**: Expertise in Provider, BLoC, and Riverpod.
+- **API Integration**: Connecting apps with RESTful services.
+- **UI/UX Design**: Focusing on beautiful and responsive designs.
+- **Version Control**: Proficient in Git and GitHub.
+
+## 🌟 Featured Projects
+
+### [HabitOn](https://github.com/yourusername/HabitOn) 
+> A habit-tracking app built with Flutter, Firebase, and Provider. Track your habits, set reminders, and achieve your goals with ease.
+
+![HabitOn](https://user-images.githubusercontent.com/yourimage.png)
+
+### [Car Dealer App](https://github.com/yourusername/CarDealerApp)
+> A comprehensive app for buying and selling cars, developed with Flutter, Node.js, and MongoDB. Features include onboarding, car listings, and more.
+
+![Car Dealer App](https://user-images.githubusercontent.com/yourimage.png)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=web)](https://yourportfolio.com)
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 💡 How to Reach Me
+
+- **Email**: [yourname@gmail.com](mailto:yourname@gmail.com)
+- **Discord**: YourDiscord#1234
+
+---
+
+⭐️ From [Your Name](https://github.com/yourusername)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shibily_sf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamedshibily/ ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SFD tech) 
