@@ -6,7 +6,9 @@ I'm a **Flutter Developer** with a passion for creating stunning, high-performan
 
 - **Flutter & Dart**: Crafting seamless cross-platform apps.
 - **Firebase**: Integrating cloud features like authentication, databases, and notifications.
-- **State Management**: Expertise in Provider, BLoC, and Riverpod.
+- **State Management**: Expertise in Provider, BLoC, and GetX.
+- **Custom Api**: Expertise in Nod.js, and Laraval.
+- **Payment Integration**: Expertise in RazorPay, and Stripe.
 - **API Integration**: Connecting apps with RESTful services.
 - **UI/UX Design**: Focusing on beautiful and responsive designs.
 - **Version Control**: Proficient in Git and GitHub.
