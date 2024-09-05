@@ -31,11 +31,6 @@ I'm a **Flutter Developer** with a passion for creating stunning, high-performan
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=web)](https://yourportfolio.com)
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ## 💡 How to Reach Me
 
 - **Email**: [sf.shibily@gmail.com](mailto:sf.shibily@gmail.com)
