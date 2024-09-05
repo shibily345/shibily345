@@ -38,8 +38,8 @@ I'm a **Flutter Developer** with a passion for creating stunning, high-performan
 
 ## 💡 How to Reach Me
 
-- **Email**: [yourname@gmail.com](mailto:yourname@gmail.com)
-- **Discord**: YourDiscord#1234
+- **Email**: [sf.shibily@gmail.com](mailto:sf.shibily@gmail.com)
+- **Call**: +91 8606094557
 
 ---
 
