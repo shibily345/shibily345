@@ -18,12 +18,12 @@ I'm a **Flutter Developer** with a passion for creating stunning, high-performan
 ### [HabitOn](https://github.com/yourusername/HabitOn) 
 > A habit-tracking app built with Flutter, Firebase, and Provider. Track your habits, set reminders, and achieve your goals with ease.
 
-![HabitOn](https://user-images.githubusercontent.com/yourimage.png)
+![HabitOn]
 
 ### [Car Dealer App](https://github.com/yourusername/CarDealerApp)
 > A comprehensive app for buying and selling cars, developed with Flutter, Node.js, and MongoDB. Features include onboarding, car listings, and more.
 
-![Car Dealer App](https://user-images.githubusercontent.com/yourimage.png)
+![Car Dealer App]
 
 ## 🌐 Connect with Me
 
